@@ -80,7 +80,7 @@ The backend applies a layered architecture:
 	•	Infrastructure → EF Core, data access, external services
 	•	API → controllers, endpoints, authentication
 
-# 📚 Documentation & Resources
+# 📚 Documentation & Resources (French version)
 
 This section aggregates all key project deliverables for analysis, planning, and design.
 
